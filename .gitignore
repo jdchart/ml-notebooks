@@ -1,0 +1,7 @@
+venv
+models
+sources
+output
+*.ipynb_checkpoints
+*.empty
+.DS_Store
